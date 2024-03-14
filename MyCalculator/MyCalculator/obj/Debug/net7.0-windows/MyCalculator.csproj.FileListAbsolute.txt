@@ -1,0 +1,44 @@
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.exe
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.deps.json
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.runtimeconfig.json
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.dll
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.pdb
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator_MarkupCompile.cache
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator_MarkupCompile.lref
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.g.resources
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.AssemblyInfo.cs
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.dll
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\refint\MyCalculator.dll
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.pdb
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.genruntimeconfig.cache
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\ref\MyCalculator.dll
+C:\Users\Sena\source\repos\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\App.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator_MarkupCompile.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator_MarkupCompile.lref
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\refint\MyCalculator.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.pdb
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.exe
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.deps.json
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.runtimeconfig.json
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\bin\Debug\net7.0-windows\MyCalculator.pdb
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\App.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.g.resources
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.AssemblyInfo.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\MyCalculator.genruntimeconfig.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\MyCalculator\MyCalculator\obj\Debug\net7.0-windows\ref\MyCalculator.dll

@@ -1,0 +1,78 @@
+﻿<Window x:Class="myToDoList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:myToDoList"
+        mc:Ignorable="d"
+        Title="ToDo List" Height="700" Width="500" Background="{StaticResource AppBackgroundBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="214*"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel>
+            <TextBlock Style="{StaticResource mainHeaderStyle}" Margin="0,0,70,-15">⁑My To Do  *</TextBlock>
+            <TextBlock Style="{StaticResource mainHeaderSpecialStyle }" Margin="70,0,0,10">⁕LIST⁂</TextBlock>
+            <TextBlock FontSize="40" HorizontalAlignment="Center" Margin="-50" Foreground="#FFE0CD80">__________________________</TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal" Height="47" Width="440">
+            <!-- birden fazla liste eklenecek, kategoriler gelicek ama şuanki proje için 1 liste var-->
+            <TextBox TextChanged="TextBox_TextChanged"
+                     Margin="5,-5,5,5"
+                     Height="38" 
+                     Width="350"
+                     Padding="0,0,0,0"
+                     Cursor="IBeam"
+                     BorderBrush="{StaticResource borderColorBrush}"
+                     />
+            <Button Content="ADD+"
+                    Margin="5,-5,5,5"
+                    Name="AddButton" 
+                    Click="AddButton_Click"
+                    />
+        </StackPanel>
+
+        <ListView Name="choresListView"
+                  SelectionChanged="choresListView_SelectionChanged"
+                  Grid.Row="2" 
+                  Background="#99E0CD80"
+                  Margin="0,0,0,17"
+                  HorizontalAlignment="Center" 
+                  Width="430"
+                  BorderBrush="{StaticResource borderColorBrush}"
+                  >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Cursor="Hand">
+                        <TextBlock Text="{Binding Title}" 
+                                   FontWeight="Bold"
+                                   FontSize="17"
+                                   Foreground="#FFA4320B"
+                                   />
+
+                        <TextBlock Text="{Binding DeadLine}"
+                                   Margin="0,0,0,10"
+                                   FontWeight="Medium"
+                                   Foreground="#A4320B" Opacity="0.85"
+                                   />
+
+                        <TextBlock Text="{Binding Description}"
+                                   TextTrimming="CharacterEllipsis"
+                                   TextWrapping="NoWrap"
+                                   MaxWidth="372"/>
+
+                        <TextBlock Text="__________________________________________________________________________"
+                                   Foreground="#FFFAF8D2"
+                                   FontWeight="ExtraBlack"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="myToDoList.AddNewToDoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:myToDoList"
+        mc:Ignorable="d"
+        Title="Add New Chore Window" Height="590" Width="400" Background="{StaticResource AppBackgroundBrush}">
+    <Grid>
+        <StackPanel>
+            <StackPanel Margin="10">
+                <TextBlock Style="{StaticResource mainHeaderStyle}" FontSize="23">What are we doing next?</TextBlock>
+                <TextBlock Style="{StaticResource mainHeaderSpecialStyle}" FontSize="30">⁖  Enter Here!  ⁙</TextBlock>
+            </StackPanel>
+
+            <TextBlock Style="{StaticResource smallHeaderStyle}">Title* (max 30 character)</TextBlock>
+            <TextBox Name="titleInput" BorderBrush="{StaticResource borderColorBrush}"/>
+
+            <TextBlock Style="{StaticResource smallHeaderStyle}">Dead Line</TextBlock>
+            <TextBox Name="deadLineInput" BorderBrush="{StaticResource borderColorBrush}"/>
+
+            <TextBlock Style="{StaticResource smallHeaderStyle}">Description</TextBlock>
+            <TextBox Name="descriptionInput" Height="220" BorderBrush="{StaticResource borderColorBrush}"/>
+
+            <Button Name="saveButton" Click="saveButton_Click">Save</Button>
+
+            
+        </StackPanel>
+    </Grid>
+</Window>

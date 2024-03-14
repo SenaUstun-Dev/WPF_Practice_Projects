@@ -1,0 +1,94 @@
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.exe
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.deps.json
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.runtimeconfig.json
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.pdb
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList_MarkupCompile.cache
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList_MarkupCompile.lref
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.g.resources
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.AssemblyInfo.cs
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\refint\myToDoList.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.pdb
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.genruntimeconfig.cache
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\ref\myToDoList.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\AddNewToDoWindow.g.cs
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\App.baml
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\AddNewToDoWindow.baml
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLite-net.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.csproj.CopyComplete
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\selectedChoreWindow.g.cs
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\selectedChoreWindow.baml
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\choreEditWindow.g.cs
+C:\Users\Sena\source\repos\myToDoList\myToDoList\obj\Debug\net7.0-windows\choreEditWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.exe
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.deps.json
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.runtimeconfig.json
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\myToDoList.pdb
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLite-net.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\AddNewToDoWindow.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\choreEditWindow.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\selectedChoreWindow.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList_MarkupCompile.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList_MarkupCompile.lref
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\App.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\AddNewToDoWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\choreEditWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\selectedChoreWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.g.resources
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.AssemblyInfo.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.csproj.CopyComplete
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\refint\myToDoList.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.pdb
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\myToDoList.genruntimeconfig.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\myToDoList\myToDoList\obj\Debug\net7.0-windows\ref\myToDoList.dll

@@ -1,0 +1,61 @@
+﻿<Window x:Class="myToDoList.selectedChoreWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:myToDoList"
+        mc:Ignorable="d"
+        Title="Chore Edit Window" Height="450" Width="600" Background="{StaticResource AppBackgroundBrush}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        
+        
+            <TextBlock Name="selectedTitle"
+                       Grid.Row="0"
+                       Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                        Style="{StaticResource mainHeaderStyle}"
+                        HorizontalAlignment="Left"
+                        FontFamily="Segoe UI"/>
+
+            <TextBlock Name="selectedDeadline"
+                       Grid.Row="1"
+                        Style="{StaticResource mainHeaderStyle}"
+                        Opacity="0.85"
+                        Margin="0,-3,0,10"
+                        HorizontalAlignment="Left"
+                        FontSize="20"
+                        FontFamily="Segoe UI"/>
+       
+        
+        <StackPanel Orientation="Horizontal" Grid.Column="3" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <!-- <TextBlock Text="⁛ ⁂ ⁎"/> -->
+            <Button Name="editChoreButton" 
+                    Content="Edit" Click="editChoreButton_Click"/>
+            
+            <Button Name="deleteChoreButton"
+                    Content="Delete" 
+                    Background="#FFEE4D16" Click="deleteChoreButton_Click"/>
+        </StackPanel>
+        
+
+    <TextBlock Name="selectedDescription"
+                Grid.Row="2"
+               
+                Grid.ColumnSpan="2"
+               Padding="10"
+                FontSize="20"
+               TextWrapping="Wrap"
+                Background="#99E0CD80"/>
+
+    </Grid>
+</Window>

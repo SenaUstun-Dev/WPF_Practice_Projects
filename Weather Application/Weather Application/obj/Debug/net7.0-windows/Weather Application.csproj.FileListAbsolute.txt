@@ -1,0 +1,48 @@
+C:\Users\Sena\source\repos\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.exe
+C:\Users\Sena\source\repos\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.deps.json
+C:\Users\Sena\source\repos\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.runtimeconfig.json
+C:\Users\Sena\source\repos\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.dll
+C:\Users\Sena\source\repos\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.pdb
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\View\WeatherMainWindow.g.cs
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application_MarkupCompile.cache
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application_MarkupCompile.lref
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\View\WeatherMainWindow.baml
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.g.resources
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.dll
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\refint\Weather Application.dll
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.pdb
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\ref\Weather Application.dll
+C:\Users\Sena\source\repos\Weather Application\Weather Application\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.CopyComplete
+C:\Users\Sena\source\repos\Weather Application\Weather Application\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.exe
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.deps.json
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.runtimeconfig.json
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\bin\Debug\net7.0-windows\Weather Application.pdb
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\View\WeatherMainWindow.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application_MarkupCompile.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application_MarkupCompile.lref
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\View\WeatherMainWindow.baml
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.g.resources
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.AssemblyInfo.cs
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.CopyComplete
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\refint\Weather Application.dll
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.pdb
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\Weather Application.genruntimeconfig.cache
+C:\Users\Sena\Desktop\dosyalar\gameDev\projects\Desktop_Interns_2023\Sena Üstün\Weather Application\Weather Application\obj\Debug\net7.0-windows\ref\Weather Application.dll
